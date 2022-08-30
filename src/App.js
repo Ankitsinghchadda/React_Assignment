@@ -32,7 +32,7 @@ function App() {
     if (select.options.length <= Object.entries(tsbl).length) {
       select.options.add(new Option(`Level ${level}`, `${level}`))
     }
-    return <h3 key={level + staked}>Level{level} : {staked}</h3>
+    return <h3 key={level + staked}>Level {level} : {staked}</h3>
 
   })
 
