@@ -9,3 +9,5 @@ Data to be shown in the frontend: \* Total User’s on a level (Default to all l
 able to filter it by level
 
 - Total Staked amount on a level (Default to all levels), We should be able to filter it by level
+
+![image](https://user-images.githubusercontent.com/75713738/187492367-3efc0196-432e-4cbc-a132-8fa3a2d7643b.png)
