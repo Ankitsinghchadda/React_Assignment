@@ -1,0 +1,16 @@
+.user_div {
+    display: flex;
+    align-items: center;
+    padding: 0rem 3rem;
+
+}
+
+
+.first {
+    flex: 1;
+}
+
+.third,
+.second {
+    flex: 0.6;
+}
